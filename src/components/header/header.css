@@ -1,0 +1,67 @@
+.slide1 {
+	background: url(../../assets/img/background-1.jpg);
+}
+
+#home .main-navbar .container_main-navbar {
+	padding: 15xp 0 !important;
+}
+
+.home-content span {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 100px;
+	color: #FFF;
+	display: block;
+	margin-bottom: 30px;
+}
+
+.time-left {
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #FFF;
+  font-size: 41px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.root-react-component-countdown-timer  {
+	display: flex !important;
+	justify-content: flex-end !important;
+}
+
+.countBox .left .border  {
+	display: flex !important;
+	flex-direction: row-reverse !important;
+}
+
+.odometer-block {
+	display: flex !important;
+}
+
+.odometer-block span {
+	display: flex !important;
+	justify-content: space-between !important;
+	font-size: 40px !important;
+	margin-right: 10px !important;
+}
+
+@media (min-width: 992px) {
+	.col-md-8 {
+    width: 100%;
+	}
+}
+
+.navbar-brand .logo>img {
+	max-height: 150px;
+  margin-top: -20px;
+  transform: rotate(-37deg);
+}
+
+@media (min-width: 992px) {
+	.col-md-offset-2 {
+			margin-left: 0;
+	}
+}
+
+.home-content {
+	text-align: center;
+}

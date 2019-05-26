@@ -1,0 +1,28 @@
+.volunteer img {
+	height: 150px;
+}
+
+.volunteer {
+	overflow: hidden;
+}
+
+.sub-title .green, .sub-title .bold {
+	display: inline-block;
+	margin-top: 5px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+	color: #82B314;
+}
+
+.sub-title .bold {
+	display: inline-block;
+	margin-top: 5px;
+	color: black !important;
+}
+
+.section-title .sub-title {
+	color: #23262a;
+	font-family: 'Roboto';
+	font-weight: normal;
+	font-size: 20px;
+}
